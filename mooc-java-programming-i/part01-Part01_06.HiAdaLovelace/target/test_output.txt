@@ -1,0 +1,1 @@
+[{"className":"HiAdaLovelaceTest","methodName":"correctOutput","pointNames":["01-06"],"status":"PASSED"},{"className":"HiAdaLovelaceTest","methodName":"numberOfSystemOutPrintlnCommands","pointNames":["01-06"],"status":"PASSED"},{"className":"HiAdaLovelaceTest","methodName":"systemOutPrintlnCommandDoesntContainAda","pointNames":["01-06"],"status":"PASSED"}]
